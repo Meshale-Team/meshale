@@ -12,10 +12,15 @@
 - name: HTML
   href: /html/
 
-- name: Database
+- name: DATABASE
   href: /database/
+
 - name: Bilgisayar Bilimi
   href: /cs/
+
+- name: NEWCAT
+  href: /newCat/
+
 - name: Mac
   href: /mac/
 
