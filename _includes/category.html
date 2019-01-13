@@ -18,7 +18,21 @@ $(function(){
         <div class="navy-line"></div>
         {% assign category = page.url | remove:'/' | capitalize %}
         {% if category == 'Html' %}
-        {% assign category = category | upcase %}
+            {% assign category = category | upcase %}
+        {% elseif category == 'Database' %}
+            {% assign category = category | upcase %}
+        {% elseif category == 'Cs' %}
+            {% assign category = category | upcase %}
+        {% elseif category == 'Linux' %}
+            {% assign category = category | upcase %}
+        {% elseif category == 'Blog' %}
+            {% assign category = category | upcase %}
+        {% elseif category == 'Life' %}
+            {% assign category = category | upcase %}
+        {% elseif category == 'Mac' %}
+            {% assign category = category | upcase %}
+        {% elseif category == 'Python' %}
+            {% assign category = category | upcase %}
         {% endif %}
         <h1>{{ category }}</h1>
     </div>
