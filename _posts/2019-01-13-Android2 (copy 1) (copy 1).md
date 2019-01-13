@@ -4,7 +4,7 @@ title:  "JAVA Trial 4"
 date:   2019-01-13
 desc: "Hasdasdasio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [JAVA]
+categories: [Java]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---

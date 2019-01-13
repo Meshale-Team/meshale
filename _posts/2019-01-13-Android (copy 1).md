@@ -4,7 +4,7 @@ title:  "JAVA C DENEME"
 date:   2019-01-13
 desc: "Hasdasdasio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [C, JAVA]
+categories: [C, Java]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---

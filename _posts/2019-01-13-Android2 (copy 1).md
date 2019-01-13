@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "C Trial 2"
+title:  "C Diger Trial 2"
 date:   2019-01-13
 desc: "Hasdasdasio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [C]
+categories: [C, Diger]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
