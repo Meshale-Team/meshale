@@ -4,7 +4,7 @@ title:  "Android Studio Setup"
 date:   2019-01-13
 desc: "How to setup latest version of android studio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [DATABASE]
+categories: [Database]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
