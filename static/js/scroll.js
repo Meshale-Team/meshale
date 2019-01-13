@@ -1,3 +1,4 @@
+/*
 $(document).ready(function() {
     $('body').scrollspy({
         target: '.navbar-fixed-top',
@@ -31,3 +32,4 @@ var cbpAnimatedHeader = (function() {
 
 // Activate WOW.js plugin for animation on scroll
 new WOW().init();
+*/
