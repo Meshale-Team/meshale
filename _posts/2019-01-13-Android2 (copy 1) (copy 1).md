@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Algorithms Trial"
+title:  "JAVA Trial 4"
 date:   2019-01-13
 desc: "Hasdasdasio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [ALGORITHMS]
+categories: [JAVA]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---

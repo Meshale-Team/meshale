@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Yardimci Uygulamalar 1"
+title:  "JAVA C DENEME"
 date:   2019-01-13
 desc: "Hasdasdasio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [YARDIMCI_UYGULAMALAR]
+categories: [C, JAVA]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
