@@ -9,24 +9,29 @@
 - name: Linux
   href: /linux/
 
-- name: HTML
-  href: /html/
+- name: Algorithms
+  href: /algorithms/
 
-- name: DATABASE
+- name: Database
   href: /database/
 
-- name: Bilgisayar Bilimi
-  href: /cs/
+- name: Hayat
+  href: /hayat/
 
-- name: NEWCAT
-  href: /newCat/
+- name: C
+  href: /c/
 
-- name: Mac
-  href: /mac/
+- name: Java
+  href: /java/
 
-- name: Life
-  href: /life/
+- name: Bilgisayar_bilimi
+  href: /bilgisayar_bilimi/
 
+- name: Yardimci_uygulamalar
+  href: /yardimci_uygulamalar/
+
+- name: Kod_ornek
+  href: /kod_ornek/  
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
   href: /donate/

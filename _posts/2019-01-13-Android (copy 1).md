@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "7"
-date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
+title:  "Yardimci Uygulamalar 1"
+date:   2019-01-13
+desc: "Hasdasdasio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML,DATABASE]
+categories: [YARDIMCI_UYGULAMALAR]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Android Studio Setup"
+title:  "Java Trial"
 date:   2019-01-13
-desc: "How to setup latest version of android studio"
+desc: "Hasdasdasio"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [DATABASE, HTML]
+categories: [JAVA]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
