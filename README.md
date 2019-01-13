@@ -4,7 +4,7 @@
 
 yyyy-mm-dd-*.md adında bir dosyayı _posts klasörüne ekle.
 
-Dosyanın en üstünde şunlar olmalı:
+Dosyanın en üstünde aşşağıdaki örnekteki gibi bir header olmalı.
 
 ```
 ---
