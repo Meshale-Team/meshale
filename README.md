@@ -1,5 +1,7 @@
 # Meshale Blog
 
+Blog Adresi: www.meshale.com
+
 ## Nasıl Makale Eklerim ?
 
 yyyy-mm-dd-*.md adında bir dosyayı _posts klasörüne ekle.
